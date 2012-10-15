@@ -10,7 +10,7 @@ By Arjen van der Ende
 ## Controls
 - Mouse - Look around
 - Left Mousebutton - Prepare cannons for firing
-- w - Walk forware
+- w - Walk forward
 - a - Rotate left (while walking)
 - d - Rotate right (while walking)
 - space - Pause
